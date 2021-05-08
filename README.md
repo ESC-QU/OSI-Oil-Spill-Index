@@ -1,5 +1,6 @@
 # OSI-Oil-Spill-Index
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<head>
+<script src="https://custom-scripts.sentinel-hub.com/sentinel-2/ndmi//"></script>
 <script>
 $(document).ready(function(){
   $("button").click(function(){
@@ -7,6 +8,7 @@ $(document).ready(function(){
   });
 });
 </script>
+</head>
 Show <a href="https://custom-scripts.sentinel-hub.com/sentinel-2/ndmi//">Script</a> or <a href="https://custom-scripts.sentinel-hub.com/custom-scripts/sentinel-2/ndmi/script.js">download</a> it.
 
 <p>Oil spill Index (abbrv. OSI)</p>
